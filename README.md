@@ -11,6 +11,8 @@ recovered the face part from video frames, the CNN enhanced with LSTM &
 ReLU is utilised to extract features from these faces and classify. For the Deep-
 fake video detection, a CNN equipped with LSTM model was applied to ensure
 model validity while keeping an appropriate weight.
+
+
 Therefore, in order to effectively detect deep fakes, requires stronger deep fake
 detection algorithms. The system that has been proposed is built on a combination
 of CNN and RNN. The system that is being presented makes use of the CNN model
